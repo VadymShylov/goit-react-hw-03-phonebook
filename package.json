@@ -36,5 +36,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "**Read in other languages: [Русский](README.md), [Polska](README.pl.md).**",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadymShylov/goit-react-hw-03-phonebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadymShylov/goit-react-hw-03-phonebook/issues"
   }
 }
