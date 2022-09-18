@@ -47,5 +47,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/VadymShylov/goit-react-hw-03-phonebook/issues"
-  }
+  },
+  "devDependencies": {}
 }
